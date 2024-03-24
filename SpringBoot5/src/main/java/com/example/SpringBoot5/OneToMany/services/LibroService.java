@@ -1,8 +1,7 @@
-package com.example.SpringBoot5.onetomany.services;
+package com.example.SpringBoot5.OneToMany.services;
 
-import com.example.SpringBoot5.onetomany.entities.Libro;
-import com.example.SpringBoot5.onetomany.repositories.LibroRepo;
-import com.example.SpringBoot5.onetoone.entities.Indirizzo;
+import com.example.SpringBoot5.OneToMany.entities.Libro;
+import com.example.SpringBoot5.OneToMany.repositories.LibroRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

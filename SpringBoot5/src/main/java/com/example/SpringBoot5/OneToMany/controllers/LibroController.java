@@ -1,8 +1,7 @@
-package com.example.SpringBoot5.onetomany.controllers;
+package com.example.SpringBoot5.OneToMany.controllers;
 
-import com.example.SpringBoot5.onetomany.entities.Autore;
-import com.example.SpringBoot5.onetomany.entities.Libro;
-import com.example.SpringBoot5.onetomany.services.LibroService;
+import com.example.SpringBoot5.OneToMany.entities.Libro;
+import com.example.SpringBoot5.OneToMany.services.LibroService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

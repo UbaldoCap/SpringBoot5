@@ -1,7 +1,7 @@
-package com.example.SpringBoot5.onetoone.services;
+package com.example.SpringBoot5.OneToOne.services;
 
-import com.example.SpringBoot5.onetoone.entities.Indirizzo;
-import com.example.SpringBoot5.onetoone.repositories.IndirizzoRepo;
+import com.example.SpringBoot5.OneToOne.entities.Indirizzo;
+import com.example.SpringBoot5.OneToOne.repositories.IndirizzoRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

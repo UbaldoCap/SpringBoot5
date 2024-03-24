@@ -1,6 +1,6 @@
-package com.example.SpringBoot5.onetomany.repositories;
+package com.example.SpringBoot5.OneToMany.repositories;
 
-import com.example.SpringBoot5.onetomany.entities.Autore;
+import com.example.SpringBoot5.OneToMany.entities.Autore;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

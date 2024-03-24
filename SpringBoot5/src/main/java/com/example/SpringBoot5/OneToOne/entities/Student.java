@@ -1,4 +1,4 @@
-package com.example.SpringBoot5.onetoone.entities;
+package com.example.SpringBoot5.OneToOne.entities;
 
 import jakarta.persistence.*;
 

@@ -1,7 +1,7 @@
-package com.example.SpringBoot5.onetoone.services;
+package com.example.SpringBoot5.OneToOne.services;
 
-import com.example.SpringBoot5.onetoone.entities.Student;
-import com.example.SpringBoot5.onetoone.repositories.StudentRepo;
+import com.example.SpringBoot5.OneToOne.entities.Student;
+import com.example.SpringBoot5.OneToOne.repositories.StudentRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

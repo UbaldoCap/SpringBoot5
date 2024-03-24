@@ -1,6 +1,5 @@
-package com.example.SpringBoot5.onetomany.entities;
+package com.example.SpringBoot5.OneToMany.entities;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 
 import java.util.ArrayList;

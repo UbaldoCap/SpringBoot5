@@ -1,7 +1,7 @@
-package com.example.SpringBoot5.onetoone.controller;
+package com.example.SpringBoot5.OneToOne.controller;
 
-import com.example.SpringBoot5.onetoone.entities.Student;
-import com.example.SpringBoot5.onetoone.services.StudentService;
+import com.example.SpringBoot5.OneToOne.entities.Student;
+import com.example.SpringBoot5.OneToOne.services.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

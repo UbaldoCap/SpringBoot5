@@ -1,6 +1,6 @@
-package com.example.SpringBoot5.onetoone.repositories;
+package com.example.SpringBoot5.OneToOne.repositories;
 
-import com.example.SpringBoot5.onetoone.entities.Student;
+import com.example.SpringBoot5.OneToOne.entities.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
