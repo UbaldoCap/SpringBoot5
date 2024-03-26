@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1711368875358" />
+          <option name="id" value="5726c794-5f38-40db-9cb2-b02fd5cf730d" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="f772c277-7765-452f-9c5d-18c69e7a7ae0" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/swagger-ui/index.html" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="PCEtLSBIVE1MIGZvciBzdGF0aWMgZGlzdHJpYnV0aW9uIGJ1bmRsZSBidWlsZCAtLT4KPCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KICA8aGVhZD4KICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4KICAgIDx0aXRsZT5Td2FnZ2VyIFVJPC90aXRsZT4KICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii4vc3dhZ2dlci11aS5jc3MiIC8+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJpbmRleC5jc3MiIC8+CiAgICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iLi9mYXZpY29uLTMyeDMyLnBuZyIgc2l6ZXM9IjMyeDMyIiAvPgogICAgPGxpbmsgcmVsPSJpY29uIiB0eXBlPSJpbWFnZS9wbmciIGhyZWY9Ii4vZmF2aWNvbi0xNngxNi5wbmciIHNpemVzPSIxNngxNiIgLz4KICA8L2hlYWQ+CgogIDxib2R5PgogICAgPGRpdiBpZD0ic3dhZ2dlci11aSI+PC9kaXY+CiAgICA8c2NyaXB0IHNyYz0iLi9zd2FnZ2VyLXVpLWJ1bmRsZS5qcyIgY2hhcnNldD0iVVRGLTgiPiA8L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSIuL3N3YWdnZXItdWktc3RhbmRhbG9uZS1wcmVzZXQuanMiIGNoYXJzZXQ9IlVURi04Ij4gPC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iLi9zd2FnZ2VyLWluaXRpYWxpemVyLmpzIiBjaGFyc2V0PSJVVEYtOCI+IDwvc2NyaXB0PgogIDwvYm9keT4KPC9odG1sPgo=" />
+              <option name="bodyString" value="&lt;!-- HTML for static distribution bundle build --&gt;&#10;&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;  &lt;head&gt;&#10;    &lt;meta charset=&quot;UTF-8&quot;&gt;&#10;    &lt;title&gt;Swagger UI&lt;/title&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;./swagger-ui.css&quot; /&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;index.css&quot; /&gt;&#10;    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; href=&quot;./favicon-32x32.png&quot; sizes=&quot;32x32&quot; /&gt;&#10;    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; href=&quot;./favicon-16x16.png&quot; sizes=&quot;16x16&quot; /&gt;&#10;  &lt;/head&gt;&#10;&#10;  &lt;body&gt;&#10;    &lt;div id=&quot;swagger-ui&quot;&gt;&lt;/div&gt;&#10;    &lt;script src=&quot;./swagger-ui-bundle.js&quot; charset=&quot;UTF-8&quot;&gt; &lt;/script&gt;&#10;    &lt;script src=&quot;./swagger-ui-standalone-preset.js&quot; charset=&quot;UTF-8&quot;&gt; &lt;/script&gt;&#10;    &lt;script src=&quot;./swagger-initializer.js&quot; charset=&quot;UTF-8&quot;&gt; &lt;/script&gt;&#10;  &lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/html" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Access-Control-Request-Method" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Access-Control-Request-Headers" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Last-Modified" />
+                    <option name="value" value="Mon, 31 Jul 2023 15:25:24 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Accept-Ranges" />
+                    <option name="value" value="bytes" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="text/html" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Length" />
+                    <option name="value" value="734" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Mon, 25 Mar 2024 12:14:35 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5726c794-5f38-40db-9cb2-b02fd5cf730d" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="HTML" />
+              <option name="previewType" value="HTML" />
+              <option name="rawBodyString" value="&lt;!-- HTML for static distribution bundle build --&gt;&#10;&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;  &lt;head&gt;&#10;    &lt;meta charset=&quot;UTF-8&quot;&gt;&#10;    &lt;title&gt;Swagger UI&lt;/title&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;./swagger-ui.css&quot; /&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;index.css&quot; /&gt;&#10;    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; href=&quot;./favicon-32x32.png&quot; sizes=&quot;32x32&quot; /&gt;&#10;    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; href=&quot;./favicon-16x16.png&quot; sizes=&quot;16x16&quot; /&gt;&#10;  &lt;/head&gt;&#10;&#10;  &lt;body&gt;&#10;    &lt;div id=&quot;swagger-ui&quot;&gt;&lt;/div&gt;&#10;    &lt;script src=&quot;./swagger-ui-bundle.js&quot; charset=&quot;UTF-8&quot;&gt; &lt;/script&gt;&#10;    &lt;script src=&quot;./swagger-ui-standalone-preset.js&quot; charset=&quot;UTF-8&quot;&gt; &lt;/script&gt;&#10;    &lt;script src=&quot;./swagger-initializer.js&quot; charset=&quot;UTF-8&quot;&gt; &lt;/script&gt;&#10;  &lt;/body&gt;&#10;&lt;/html&gt;&#10;" />
+              <option name="size" value="734" />
+              <option name="time" value="5" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711368885890" />
+          <option name="id" value="61a95f3c-c055-4c7f-8a63-05675c02a08f" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="f772c277-7765-452f-9c5d-18c69e7a7ae0" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJ0aW1lc3RhbXAiOiIyMDI0LTAzLTI1VDEyOjE0OjQ1Ljg3OSswMDowMCIsInN0YXR1cyI6NDA0LCJlcnJvciI6Ik5vdCBGb3VuZCIsInRyYWNlIjoib3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5yZXNvdXJjZS5Ob1Jlc291cmNlRm91bmRFeGNlcHRpb246IE5vIHN0YXRpYyByZXNvdXJjZSAuXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5yZXNvdXJjZS5SZXNvdXJjZUh0dHBSZXF1ZXN0SGFuZGxlci5oYW5kbGVSZXF1ZXN0KFJlc291cmNlSHR0cFJlcXVlc3RIYW5kbGVyLmphdmE6NTg1KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQubXZjLkh0dHBSZXF1ZXN0SGFuZGxlckFkYXB0ZXIuaGFuZGxlKEh0dHBSZXF1ZXN0SGFuZGxlckFkYXB0ZXIuamF2YTo1MilcclxuXHRhdCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LkRpc3BhdGNoZXJTZXJ2bGV0LmRvRGlzcGF0Y2goRGlzcGF0Y2hlclNlcnZsZXQuamF2YToxMDg5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRGlzcGF0Y2hlclNlcnZsZXQuZG9TZXJ2aWNlKERpc3BhdGNoZXJTZXJ2bGV0LmphdmE6OTc5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRnJhbWV3b3JrU2VydmxldC5wcm9jZXNzUmVxdWVzdChGcmFtZXdvcmtTZXJ2bGV0LmphdmE6MTAxNClcclxuXHRhdCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LkZyYW1ld29ya1NlcnZsZXQuZG9HZXQoRnJhbWV3b3JrU2VydmxldC5qYXZhOjkwMylcclxuXHRhdCBqYWthcnRhLnNlcnZsZXQuaHR0cC5IdHRwU2VydmxldC5zZXJ2aWNlKEh0dHBTZXJ2bGV0LmphdmE6NTY0KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRnJhbWV3b3JrU2VydmxldC5zZXJ2aWNlKEZyYW1ld29ya1NlcnZsZXQuamF2YTo4ODUpXHJcblx0YXQgamFrYXJ0YS5zZXJ2bGV0Lmh0dHAuSHR0cFNlcnZsZXQuc2VydmljZShIdHRwU2VydmxldC5qYXZhOjY1OClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5pbnRlcm5hbERvRmlsdGVyKEFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uamF2YToyMDUpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb3JlLkFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uZG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE0OSlcclxuXHRhdCBvcmcuYXBhY2hlLnRvbWNhdC53ZWJzb2NrZXQuc2VydmVyLldzRmlsdGVyLmRvRmlsdGVyKFdzRmlsdGVyLmphdmE6NTEpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb3JlLkFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uaW50ZXJuYWxEb0ZpbHRlcihBcHBsaWNhdGlvbkZpbHRlckNoYWluLmphdmE6MTc0KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5BcHBsaWNhdGlvbkZpbHRlckNoYWluLmRvRmlsdGVyKEFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uamF2YToxNDkpXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLlJlcXVlc3RDb250ZXh0RmlsdGVyLmRvRmlsdGVySW50ZXJuYWwoUmVxdWVzdENvbnRleHRGaWx0ZXIuamF2YToxMDApXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLk9uY2VQZXJSZXF1ZXN0RmlsdGVyLmRvRmlsdGVyKE9uY2VQZXJSZXF1ZXN0RmlsdGVyLmphdmE6MTE2KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5BcHBsaWNhdGlvbkZpbHRlckNoYWluLmludGVybmFsRG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE3NClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5kb0ZpbHRlcihBcHBsaWNhdGlvbkZpbHRlckNoYWluLmphdmE6MTQ5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5Gb3JtQ29udGVudEZpbHRlci5kb0ZpbHRlckludGVybmFsKEZvcm1Db250ZW50RmlsdGVyLmphdmE6OTMpXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLk9uY2VQZXJSZXF1ZXN0RmlsdGVyLmRvRmlsdGVyKE9uY2VQZXJSZXF1ZXN0RmlsdGVyLmphdmE6MTE2KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5BcHBsaWNhdGlvbkZpbHRlckNoYWluLmludGVybmFsRG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE3NClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5kb0ZpbHRlcihBcHBsaWNhdGlvbkZpbHRlckNoYWluLmphdmE6MTQ5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5DaGFyYWN0ZXJFbmNvZGluZ0ZpbHRlci5kb0ZpbHRlckludGVybmFsKENoYXJhY3RlckVuY29kaW5nRmlsdGVyLmphdmE6MjAxKVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5PbmNlUGVyUmVxdWVzdEZpbHRlci5kb0ZpbHRlcihPbmNlUGVyUmVxdWVzdEZpbHRlci5qYXZhOjExNilcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5pbnRlcm5hbERvRmlsdGVyKEFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uamF2YToxNzQpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb3JlLkFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uZG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE0OSlcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuU3RhbmRhcmRXcmFwcGVyVmFsdmUuaW52b2tlKFN0YW5kYXJkV3JhcHBlclZhbHZlLmphdmE6MTY3KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5TdGFuZGFyZENvbnRleHRWYWx2ZS5pbnZva2UoU3RhbmRhcmRDb250ZXh0VmFsdmUuamF2YTo5MClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmF1dGhlbnRpY2F0b3IuQXV0aGVudGljYXRvckJhc2UuaW52b2tlKEF1dGhlbnRpY2F0b3JCYXNlLmphdmE6NDgyKVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5TdGFuZGFyZEhvc3RWYWx2ZS5pbnZva2UoU3RhbmRhcmRIb3N0VmFsdmUuamF2YToxMTUpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS52YWx2ZXMuRXJyb3JSZXBvcnRWYWx2ZS5pbnZva2UoRXJyb3JSZXBvcnRWYWx2ZS5qYXZhOjkzKVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5TdGFuZGFyZEVuZ2luZVZhbHZlLmludm9rZShTdGFuZGFyZEVuZ2luZVZhbHZlLmphdmE6NzQpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb25uZWN0b3IuQ295b3RlQWRhcHRlci5zZXJ2aWNlKENveW90ZUFkYXB0ZXIuamF2YTozNDQpXHJcblx0YXQgb3JnLmFwYWNoZS5jb3lvdGUuaHR0cDExLkh0dHAxMVByb2Nlc3Nvci5zZXJ2aWNlKEh0dHAxMVByb2Nlc3Nvci5qYXZhOjM5MSlcclxuXHRhdCBvcmcuYXBhY2hlLmNveW90ZS5BYnN0cmFjdFByb2Nlc3NvckxpZ2h0LnByb2Nlc3MoQWJzdHJhY3RQcm9jZXNzb3JMaWdodC5qYXZhOjYzKVxyXG5cdGF0IG9yZy5hcGFjaGUuY295b3RlLkFic3RyYWN0UHJvdG9jb2wkQ29ubmVjdGlvbkhhbmRsZXIucHJvY2VzcyhBYnN0cmFjdFByb3RvY29sLmphdmE6ODk2KVxyXG5cdGF0IG9yZy5hcGFjaGUudG9tY2F0LnV0aWwubmV0Lk5pb0VuZHBvaW50JFNvY2tldFByb2Nlc3Nvci5kb1J1bihOaW9FbmRwb2ludC5qYXZhOjE3NDQpXHJcblx0YXQgb3JnLmFwYWNoZS50b21jYXQudXRpbC5uZXQuU29ja2V0UHJvY2Vzc29yQmFzZS5ydW4oU29ja2V0UHJvY2Vzc29yQmFzZS5qYXZhOjUyKVxyXG5cdGF0IG9yZy5hcGFjaGUudG9tY2F0LnV0aWwudGhyZWFkcy5UaHJlYWRQb29sRXhlY3V0b3IucnVuV29ya2VyKFRocmVhZFBvb2xFeGVjdXRvci5qYXZhOjExOTEpXHJcblx0YXQgb3JnLmFwYWNoZS50b21jYXQudXRpbC50aHJlYWRzLlRocmVhZFBvb2xFeGVjdXRvciRXb3JrZXIucnVuKFRocmVhZFBvb2xFeGVjdXRvci5qYXZhOjY1OSlcclxuXHRhdCBvcmcuYXBhY2hlLnRvbWNhdC51dGlsLnRocmVhZHMuVGFza1RocmVhZCRXcmFwcGluZ1J1bm5hYmxlLnJ1bihUYXNrVGhyZWFkLmphdmE6NjMpXHJcblx0YXQgamF2YS5iYXNlL2phdmEubGFuZy5UaHJlYWQucnVuKFRocmVhZC5qYXZhOjE1NzApXHJcbiIsIm1lc3NhZ2UiOiJObyBzdGF0aWMgcmVzb3VyY2UgLiIsInBhdGgiOiIvIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;timestamp&quot; : &quot;2024-03-25T12:14:45.879+00:00&quot;,&#10;  &quot;status&quot; : 404,&#10;  &quot;error&quot; : &quot;Not Found&quot;,&#10;  &quot;trace&quot; : &quot;org.springframework.web.servlet.resource.NoResourceFoundException: No static resource .\r\n\tat org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)\r\n\tat org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)\r\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)\r\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)\r\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)\r\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)\r\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)\r\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)\r\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)\r\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)\r\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)\r\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)\r\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)\r\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)\r\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)\r\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\r\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)\r\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\r\n&quot;,&#10;  &quot;message&quot; : &quot;No static resource .&quot;,&#10;  &quot;path&quot; : &quot;/&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Access-Control-Request-Method" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Access-Control-Request-Headers" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Mon, 25 Mar 2024 12:14:45 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="61a95f3c-c055-4c7f-8a63-05675c02a08f" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;timestamp&quot;:&quot;2024-03-25T12:14:45.879+00:00&quot;,&quot;status&quot;:404,&quot;error&quot;:&quot;Not Found&quot;,&quot;trace&quot;:&quot;org.springframework.web.servlet.resource.NoResourceFoundException: No static resource .\r\n\tat org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)\r\n\tat org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)\r\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)\r\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)\r\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)\r\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)\r\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)\r\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)\r\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)\r\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)\r\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)\r\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)\r\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)\r\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)\r\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)\r\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\r\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)\r\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\r\n&quot;,&quot;message&quot;:&quot;No static resource .&quot;,&quot;path&quot;:&quot;/&quot;}" />
+              <option name="size" value="4217" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711368887469" />
+          <option name="id" value="1a425e70-03cc-4159-83ed-0ada7360a833" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="f772c277-7765-452f-9c5d-18c69e7a7ae0" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJ0aW1lc3RhbXAiOiIyMDI0LTAzLTI1VDEyOjE0OjQ3LjQ2NyswMDowMCIsInN0YXR1cyI6NDA0LCJlcnJvciI6Ik5vdCBGb3VuZCIsInRyYWNlIjoib3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5yZXNvdXJjZS5Ob1Jlc291cmNlRm91bmRFeGNlcHRpb246IE5vIHN0YXRpYyByZXNvdXJjZSAuXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5yZXNvdXJjZS5SZXNvdXJjZUh0dHBSZXF1ZXN0SGFuZGxlci5oYW5kbGVSZXF1ZXN0KFJlc291cmNlSHR0cFJlcXVlc3RIYW5kbGVyLmphdmE6NTg1KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQubXZjLkh0dHBSZXF1ZXN0SGFuZGxlckFkYXB0ZXIuaGFuZGxlKEh0dHBSZXF1ZXN0SGFuZGxlckFkYXB0ZXIuamF2YTo1MilcclxuXHRhdCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LkRpc3BhdGNoZXJTZXJ2bGV0LmRvRGlzcGF0Y2goRGlzcGF0Y2hlclNlcnZsZXQuamF2YToxMDg5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRGlzcGF0Y2hlclNlcnZsZXQuZG9TZXJ2aWNlKERpc3BhdGNoZXJTZXJ2bGV0LmphdmE6OTc5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRnJhbWV3b3JrU2VydmxldC5wcm9jZXNzUmVxdWVzdChGcmFtZXdvcmtTZXJ2bGV0LmphdmE6MTAxNClcclxuXHRhdCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LkZyYW1ld29ya1NlcnZsZXQuZG9HZXQoRnJhbWV3b3JrU2VydmxldC5qYXZhOjkwMylcclxuXHRhdCBqYWthcnRhLnNlcnZsZXQuaHR0cC5IdHRwU2VydmxldC5zZXJ2aWNlKEh0dHBTZXJ2bGV0LmphdmE6NTY0KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRnJhbWV3b3JrU2VydmxldC5zZXJ2aWNlKEZyYW1ld29ya1NlcnZsZXQuamF2YTo4ODUpXHJcblx0YXQgamFrYXJ0YS5zZXJ2bGV0Lmh0dHAuSHR0cFNlcnZsZXQuc2VydmljZShIdHRwU2VydmxldC5qYXZhOjY1OClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5pbnRlcm5hbERvRmlsdGVyKEFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uamF2YToyMDUpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb3JlLkFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uZG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE0OSlcclxuXHRhdCBvcmcuYXBhY2hlLnRvbWNhdC53ZWJzb2NrZXQuc2VydmVyLldzRmlsdGVyLmRvRmlsdGVyKFdzRmlsdGVyLmphdmE6NTEpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb3JlLkFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uaW50ZXJuYWxEb0ZpbHRlcihBcHBsaWNhdGlvbkZpbHRlckNoYWluLmphdmE6MTc0KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5BcHBsaWNhdGlvbkZpbHRlckNoYWluLmRvRmlsdGVyKEFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uamF2YToxNDkpXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLlJlcXVlc3RDb250ZXh0RmlsdGVyLmRvRmlsdGVySW50ZXJuYWwoUmVxdWVzdENvbnRleHRGaWx0ZXIuamF2YToxMDApXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLk9uY2VQZXJSZXF1ZXN0RmlsdGVyLmRvRmlsdGVyKE9uY2VQZXJSZXF1ZXN0RmlsdGVyLmphdmE6MTE2KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5BcHBsaWNhdGlvbkZpbHRlckNoYWluLmludGVybmFsRG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE3NClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5kb0ZpbHRlcihBcHBsaWNhdGlvbkZpbHRlckNoYWluLmphdmE6MTQ5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5Gb3JtQ29udGVudEZpbHRlci5kb0ZpbHRlckludGVybmFsKEZvcm1Db250ZW50RmlsdGVyLmphdmE6OTMpXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLk9uY2VQZXJSZXF1ZXN0RmlsdGVyLmRvRmlsdGVyKE9uY2VQZXJSZXF1ZXN0RmlsdGVyLmphdmE6MTE2KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5BcHBsaWNhdGlvbkZpbHRlckNoYWluLmludGVybmFsRG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE3NClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5kb0ZpbHRlcihBcHBsaWNhdGlvbkZpbHRlckNoYWluLmphdmE6MTQ5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5DaGFyYWN0ZXJFbmNvZGluZ0ZpbHRlci5kb0ZpbHRlckludGVybmFsKENoYXJhY3RlckVuY29kaW5nRmlsdGVyLmphdmE6MjAxKVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5PbmNlUGVyUmVxdWVzdEZpbHRlci5kb0ZpbHRlcihPbmNlUGVyUmVxdWVzdEZpbHRlci5qYXZhOjExNilcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5pbnRlcm5hbERvRmlsdGVyKEFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uamF2YToxNzQpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb3JlLkFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uZG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE0OSlcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuU3RhbmRhcmRXcmFwcGVyVmFsdmUuaW52b2tlKFN0YW5kYXJkV3JhcHBlclZhbHZlLmphdmE6MTY3KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5TdGFuZGFyZENvbnRleHRWYWx2ZS5pbnZva2UoU3RhbmRhcmRDb250ZXh0VmFsdmUuamF2YTo5MClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmF1dGhlbnRpY2F0b3IuQXV0aGVudGljYXRvckJhc2UuaW52b2tlKEF1dGhlbnRpY2F0b3JCYXNlLmphdmE6NDgyKVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5TdGFuZGFyZEhvc3RWYWx2ZS5pbnZva2UoU3RhbmRhcmRIb3N0VmFsdmUuamF2YToxMTUpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS52YWx2ZXMuRXJyb3JSZXBvcnRWYWx2ZS5pbnZva2UoRXJyb3JSZXBvcnRWYWx2ZS5qYXZhOjkzKVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5TdGFuZGFyZEVuZ2luZVZhbHZlLmludm9rZShTdGFuZGFyZEVuZ2luZVZhbHZlLmphdmE6NzQpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb25uZWN0b3IuQ295b3RlQWRhcHRlci5zZXJ2aWNlKENveW90ZUFkYXB0ZXIuamF2YTozNDQpXHJcblx0YXQgb3JnLmFwYWNoZS5jb3lvdGUuaHR0cDExLkh0dHAxMVByb2Nlc3Nvci5zZXJ2aWNlKEh0dHAxMVByb2Nlc3Nvci5qYXZhOjM5MSlcclxuXHRhdCBvcmcuYXBhY2hlLmNveW90ZS5BYnN0cmFjdFByb2Nlc3NvckxpZ2h0LnByb2Nlc3MoQWJzdHJhY3RQcm9jZXNzb3JMaWdodC5qYXZhOjYzKVxyXG5cdGF0IG9yZy5hcGFjaGUuY295b3RlLkFic3RyYWN0UHJvdG9jb2wkQ29ubmVjdGlvbkhhbmRsZXIucHJvY2VzcyhBYnN0cmFjdFByb3RvY29sLmphdmE6ODk2KVxyXG5cdGF0IG9yZy5hcGFjaGUudG9tY2F0LnV0aWwubmV0Lk5pb0VuZHBvaW50JFNvY2tldFByb2Nlc3Nvci5kb1J1bihOaW9FbmRwb2ludC5qYXZhOjE3NDQpXHJcblx0YXQgb3JnLmFwYWNoZS50b21jYXQudXRpbC5uZXQuU29ja2V0UHJvY2Vzc29yQmFzZS5ydW4oU29ja2V0UHJvY2Vzc29yQmFzZS5qYXZhOjUyKVxyXG5cdGF0IG9yZy5hcGFjaGUudG9tY2F0LnV0aWwudGhyZWFkcy5UaHJlYWRQb29sRXhlY3V0b3IucnVuV29ya2VyKFRocmVhZFBvb2xFeGVjdXRvci5qYXZhOjExOTEpXHJcblx0YXQgb3JnLmFwYWNoZS50b21jYXQudXRpbC50aHJlYWRzLlRocmVhZFBvb2xFeGVjdXRvciRXb3JrZXIucnVuKFRocmVhZFBvb2xFeGVjdXRvci5qYXZhOjY1OSlcclxuXHRhdCBvcmcuYXBhY2hlLnRvbWNhdC51dGlsLnRocmVhZHMuVGFza1RocmVhZCRXcmFwcGluZ1J1bm5hYmxlLnJ1bihUYXNrVGhyZWFkLmphdmE6NjMpXHJcblx0YXQgamF2YS5iYXNlL2phdmEubGFuZy5UaHJlYWQucnVuKFRocmVhZC5qYXZhOjE1NzApXHJcbiIsIm1lc3NhZ2UiOiJObyBzdGF0aWMgcmVzb3VyY2UgLiIsInBhdGgiOiIvIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;timestamp&quot; : &quot;2024-03-25T12:14:47.467+00:00&quot;,&#10;  &quot;status&quot; : 404,&#10;  &quot;error&quot; : &quot;Not Found&quot;,&#10;  &quot;trace&quot; : &quot;org.springframework.web.servlet.resource.NoResourceFoundException: No static resource .\r\n\tat org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)\r\n\tat org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)\r\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)\r\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)\r\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)\r\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)\r\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)\r\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)\r\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)\r\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)\r\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)\r\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)\r\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)\r\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)\r\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)\r\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\r\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)\r\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\r\n&quot;,&#10;  &quot;message&quot; : &quot;No static resource .&quot;,&#10;  &quot;path&quot; : &quot;/&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Access-Control-Request-Method" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Access-Control-Request-Headers" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Mon, 25 Mar 2024 12:14:47 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1a425e70-03cc-4159-83ed-0ada7360a833" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;timestamp&quot;:&quot;2024-03-25T12:14:47.467+00:00&quot;,&quot;status&quot;:404,&quot;error&quot;:&quot;Not Found&quot;,&quot;trace&quot;:&quot;org.springframework.web.servlet.resource.NoResourceFoundException: No static resource .\r\n\tat org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)\r\n\tat org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)\r\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)\r\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)\r\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)\r\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)\r\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)\r\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)\r\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)\r\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)\r\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)\r\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)\r\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)\r\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)\r\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)\r\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\r\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)\r\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\r\n&quot;,&quot;message&quot;:&quot;No static resource .&quot;,&quot;path&quot;:&quot;/&quot;}" />
+              <option name="size" value="4217" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711368901708" />
+          <option name="id" value="825b0ae0-52ed-4d47-8276-7bbebba61867" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="f772c277-7765-452f-9c5d-18c69e7a7ae0" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/studente/findAll" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W10=" />
+              <option name="bodyString" value="[]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Mon, 25 Mar 2024 12:15:01 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="825b0ae0-52ed-4d47-8276-7bbebba61867" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[]" />
+              <option name="size" value="2" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711368922732" />
+          <option name="id" value="be60eecf-7792-4d5c-abf6-dccbf895869d" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="f772c277-7765-452f-9c5d-18c69e7a7ae0" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/studente/findAl" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJ0aW1lc3RhbXAiOiIyMDI0LTAzLTI1VDEyOjE1OjIyLjczMCswMDowMCIsInN0YXR1cyI6NDA0LCJlcnJvciI6Ik5vdCBGb3VuZCIsInRyYWNlIjoib3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5yZXNvdXJjZS5Ob1Jlc291cmNlRm91bmRFeGNlcHRpb246IE5vIHN0YXRpYyByZXNvdXJjZSBzdHVkZW50ZS9maW5kQWwuXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5yZXNvdXJjZS5SZXNvdXJjZUh0dHBSZXF1ZXN0SGFuZGxlci5oYW5kbGVSZXF1ZXN0KFJlc291cmNlSHR0cFJlcXVlc3RIYW5kbGVyLmphdmE6NTg1KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQubXZjLkh0dHBSZXF1ZXN0SGFuZGxlckFkYXB0ZXIuaGFuZGxlKEh0dHBSZXF1ZXN0SGFuZGxlckFkYXB0ZXIuamF2YTo1MilcclxuXHRhdCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LkRpc3BhdGNoZXJTZXJ2bGV0LmRvRGlzcGF0Y2goRGlzcGF0Y2hlclNlcnZsZXQuamF2YToxMDg5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRGlzcGF0Y2hlclNlcnZsZXQuZG9TZXJ2aWNlKERpc3BhdGNoZXJTZXJ2bGV0LmphdmE6OTc5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRnJhbWV3b3JrU2VydmxldC5wcm9jZXNzUmVxdWVzdChGcmFtZXdvcmtTZXJ2bGV0LmphdmE6MTAxNClcclxuXHRhdCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0LkZyYW1ld29ya1NlcnZsZXQuZG9HZXQoRnJhbWV3b3JrU2VydmxldC5qYXZhOjkwMylcclxuXHRhdCBqYWthcnRhLnNlcnZsZXQuaHR0cC5IdHRwU2VydmxldC5zZXJ2aWNlKEh0dHBTZXJ2bGV0LmphdmE6NTY0KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuRnJhbWV3b3JrU2VydmxldC5zZXJ2aWNlKEZyYW1ld29ya1NlcnZsZXQuamF2YTo4ODUpXHJcblx0YXQgamFrYXJ0YS5zZXJ2bGV0Lmh0dHAuSHR0cFNlcnZsZXQuc2VydmljZShIdHRwU2VydmxldC5qYXZhOjY1OClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5pbnRlcm5hbERvRmlsdGVyKEFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uamF2YToyMDUpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb3JlLkFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uZG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE0OSlcclxuXHRhdCBvcmcuYXBhY2hlLnRvbWNhdC53ZWJzb2NrZXQuc2VydmVyLldzRmlsdGVyLmRvRmlsdGVyKFdzRmlsdGVyLmphdmE6NTEpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb3JlLkFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uaW50ZXJuYWxEb0ZpbHRlcihBcHBsaWNhdGlvbkZpbHRlckNoYWluLmphdmE6MTc0KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5BcHBsaWNhdGlvbkZpbHRlckNoYWluLmRvRmlsdGVyKEFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uamF2YToxNDkpXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLlJlcXVlc3RDb250ZXh0RmlsdGVyLmRvRmlsdGVySW50ZXJuYWwoUmVxdWVzdENvbnRleHRGaWx0ZXIuamF2YToxMDApXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLk9uY2VQZXJSZXF1ZXN0RmlsdGVyLmRvRmlsdGVyKE9uY2VQZXJSZXF1ZXN0RmlsdGVyLmphdmE6MTE2KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5BcHBsaWNhdGlvbkZpbHRlckNoYWluLmludGVybmFsRG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE3NClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5kb0ZpbHRlcihBcHBsaWNhdGlvbkZpbHRlckNoYWluLmphdmE6MTQ5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5Gb3JtQ29udGVudEZpbHRlci5kb0ZpbHRlckludGVybmFsKEZvcm1Db250ZW50RmlsdGVyLmphdmE6OTMpXHJcblx0YXQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLk9uY2VQZXJSZXF1ZXN0RmlsdGVyLmRvRmlsdGVyKE9uY2VQZXJSZXF1ZXN0RmlsdGVyLmphdmE6MTE2KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5BcHBsaWNhdGlvbkZpbHRlckNoYWluLmludGVybmFsRG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE3NClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5kb0ZpbHRlcihBcHBsaWNhdGlvbkZpbHRlckNoYWluLmphdmE6MTQ5KVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5DaGFyYWN0ZXJFbmNvZGluZ0ZpbHRlci5kb0ZpbHRlckludGVybmFsKENoYXJhY3RlckVuY29kaW5nRmlsdGVyLmphdmE6MjAxKVxyXG5cdGF0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmZpbHRlci5PbmNlUGVyUmVxdWVzdEZpbHRlci5kb0ZpbHRlcihPbmNlUGVyUmVxdWVzdEZpbHRlci5qYXZhOjExNilcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5pbnRlcm5hbERvRmlsdGVyKEFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uamF2YToxNzQpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb3JlLkFwcGxpY2F0aW9uRmlsdGVyQ2hhaW4uZG9GaWx0ZXIoQXBwbGljYXRpb25GaWx0ZXJDaGFpbi5qYXZhOjE0OSlcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmNvcmUuU3RhbmRhcmRXcmFwcGVyVmFsdmUuaW52b2tlKFN0YW5kYXJkV3JhcHBlclZhbHZlLmphdmE6MTY3KVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5TdGFuZGFyZENvbnRleHRWYWx2ZS5pbnZva2UoU3RhbmRhcmRDb250ZXh0VmFsdmUuamF2YTo5MClcclxuXHRhdCBvcmcuYXBhY2hlLmNhdGFsaW5hLmF1dGhlbnRpY2F0b3IuQXV0aGVudGljYXRvckJhc2UuaW52b2tlKEF1dGhlbnRpY2F0b3JCYXNlLmphdmE6NDgyKVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5TdGFuZGFyZEhvc3RWYWx2ZS5pbnZva2UoU3RhbmRhcmRIb3N0VmFsdmUuamF2YToxMTUpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS52YWx2ZXMuRXJyb3JSZXBvcnRWYWx2ZS5pbnZva2UoRXJyb3JSZXBvcnRWYWx2ZS5qYXZhOjkzKVxyXG5cdGF0IG9yZy5hcGFjaGUuY2F0YWxpbmEuY29yZS5TdGFuZGFyZEVuZ2luZVZhbHZlLmludm9rZShTdGFuZGFyZEVuZ2luZVZhbHZlLmphdmE6NzQpXHJcblx0YXQgb3JnLmFwYWNoZS5jYXRhbGluYS5jb25uZWN0b3IuQ295b3RlQWRhcHRlci5zZXJ2aWNlKENveW90ZUFkYXB0ZXIuamF2YTozNDQpXHJcblx0YXQgb3JnLmFwYWNoZS5jb3lvdGUuaHR0cDExLkh0dHAxMVByb2Nlc3Nvci5zZXJ2aWNlKEh0dHAxMVByb2Nlc3Nvci5qYXZhOjM5MSlcclxuXHRhdCBvcmcuYXBhY2hlLmNveW90ZS5BYnN0cmFjdFByb2Nlc3NvckxpZ2h0LnByb2Nlc3MoQWJzdHJhY3RQcm9jZXNzb3JMaWdodC5qYXZhOjYzKVxyXG5cdGF0IG9yZy5hcGFjaGUuY295b3RlLkFic3RyYWN0UHJvdG9jb2wkQ29ubmVjdGlvbkhhbmRsZXIucHJvY2VzcyhBYnN0cmFjdFByb3RvY29sLmphdmE6ODk2KVxyXG5cdGF0IG9yZy5hcGFjaGUudG9tY2F0LnV0aWwubmV0Lk5pb0VuZHBvaW50JFNvY2tldFByb2Nlc3Nvci5kb1J1bihOaW9FbmRwb2ludC5qYXZhOjE3NDQpXHJcblx0YXQgb3JnLmFwYWNoZS50b21jYXQudXRpbC5uZXQuU29ja2V0UHJvY2Vzc29yQmFzZS5ydW4oU29ja2V0UHJvY2Vzc29yQmFzZS5qYXZhOjUyKVxyXG5cdGF0IG9yZy5hcGFjaGUudG9tY2F0LnV0aWwudGhyZWFkcy5UaHJlYWRQb29sRXhlY3V0b3IucnVuV29ya2VyKFRocmVhZFBvb2xFeGVjdXRvci5qYXZhOjExOTEpXHJcblx0YXQgb3JnLmFwYWNoZS50b21jYXQudXRpbC50aHJlYWRzLlRocmVhZFBvb2xFeGVjdXRvciRXb3JrZXIucnVuKFRocmVhZFBvb2xFeGVjdXRvci5qYXZhOjY1OSlcclxuXHRhdCBvcmcuYXBhY2hlLnRvbWNhdC51dGlsLnRocmVhZHMuVGFza1RocmVhZCRXcmFwcGluZ1J1bm5hYmxlLnJ1bihUYXNrVGhyZWFkLmphdmE6NjMpXHJcblx0YXQgamF2YS5iYXNlL2phdmEubGFuZy5UaHJlYWQucnVuKFRocmVhZC5qYXZhOjE1NzApXHJcbiIsIm1lc3NhZ2UiOiJObyBzdGF0aWMgcmVzb3VyY2Ugc3R1ZGVudGUvZmluZEFsLiIsInBhdGgiOiIvc3R1ZGVudGUvZmluZEFsIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;timestamp&quot; : &quot;2024-03-25T12:15:22.730+00:00&quot;,&#10;  &quot;status&quot; : 404,&#10;  &quot;error&quot; : &quot;Not Found&quot;,&#10;  &quot;trace&quot; : &quot;org.springframework.web.servlet.resource.NoResourceFoundException: No static resource studente/findAl.\r\n\tat org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)\r\n\tat org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)\r\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)\r\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)\r\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)\r\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)\r\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)\r\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)\r\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)\r\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)\r\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)\r\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)\r\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)\r\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)\r\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)\r\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\r\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)\r\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\r\n&quot;,&#10;  &quot;message&quot; : &quot;No static resource studente/findAl.&quot;,&#10;  &quot;path&quot; : &quot;/studente/findAl&quot;&#10;}" />
+              <option name="code" value="404" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Origin" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Access-Control-Request-Method" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Vary" />
+                    <option name="value" value="Access-Control-Request-Headers" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Mon, 25 Mar 2024 12:15:22 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="be60eecf-7792-4d5c-abf6-dccbf895869d" />
+              <option name="message" value="Not Found" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;timestamp&quot;:&quot;2024-03-25T12:15:22.730+00:00&quot;,&quot;status&quot;:404,&quot;error&quot;:&quot;Not Found&quot;,&quot;trace&quot;:&quot;org.springframework.web.servlet.resource.NoResourceFoundException: No static resource studente/findAl.\r\n\tat org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:585)\r\n\tat org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:52)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)\r\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)\r\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)\r\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)\r\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)\r\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)\r\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)\r\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)\r\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)\r\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)\r\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)\r\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)\r\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)\r\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)\r\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\r\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)\r\n\tat java.base/java.lang.Thread.run(Thread.java:1570)\r\n&quot;,&quot;message&quot;:&quot;No static resource studente/findAl.&quot;,&quot;path&quot;:&quot;/studente/findAl&quot;}" />
+              <option name="size" value="4262" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1711368925278" />
+          <option name="id" value="7e8b4479-0e83-47d2-aac6-cc1dc276f4b0" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="f772c277-7765-452f-9c5d-18c69e7a7ae0" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/studente/findAll" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W10=" />
+              <option name="bodyString" value="[]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Mon, 25 Mar 2024 12:15:25 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="7e8b4479-0e83-47d2-aac6-cc1dc276f4b0" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[]" />
+              <option name="size" value="2" />
+              <option name="time" value="5" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>

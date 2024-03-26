@@ -9,3 +9,6 @@ spring:
     show_sql: true
     hibernate:
       ddl-auto: update
+    jackson:
+      serialization:
+        fail-on-empty-beans: false
